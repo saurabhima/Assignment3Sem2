@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <meta charset="windows-1252">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/resources/images/index.png;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D"/>
+    <meta name="description" content="Indian Institute of Technology Kharagpur">
+    <meta name="author" content="Indian Institute of Technology Kharagpur">
+    <title>Indian Institute of Technology Kharagpur</title>
+
+    <link rel="stylesheet" href="/resources/css/bootstrap.min.css;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D"
+          type="text/css"/>
+    <link rel="stylesheet" href="/resources/css/font-awesome.css;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D"
+          type="text/css">
+    <link rel="stylesheet"
+          href="/resources/common_css/common_stylesheet.css;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D"
+          type="text/css">
+    <!--<link href="css/override.css" rel="alternate stylesheet" media="screen" title="change">-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--
+[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]
+-->
+
+    <!-- Custom CSS -->
+    <link href="/resources/css/faculty_style.css;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D" rel="stylesheet">
+    <link href="/resources/css/override.css;jsessionid=6CE14BC76FA0CCA7F6ABE4C8D4B2738D" rel="alternate stylesheet"
+          media="screen" title="change">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
